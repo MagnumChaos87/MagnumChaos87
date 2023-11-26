@@ -1,11 +1,6 @@
-```js
-👋 Hi, I’m @MagnumChaos87
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...```
+# __Hello World__!
 
-<!---
-MagnumChaos87/MagnumChaos87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⌨|⇝ I'm just a mere beginner in the world of programming.
+
+🇧🇷| ⇝ I'm Brazilian, so I speak Brazilian Portuguese, but I plan to become fluent in English.
+
