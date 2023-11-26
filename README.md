@@ -1,4 +1,4 @@
-# _Hello, World_!
+# Hello, World!
 
 ⌨ |⇝ I'm just a mere beginner in the world of programming.
 
