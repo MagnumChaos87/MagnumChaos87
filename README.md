@@ -1,8 +1,7 @@
 # Hello, World!
 
-⌨ | ⇝ I'm just a mere beginner in the world of programming.
+⌨ | ⇝Just a student (beginner) in the world of programming.
 
-🇧🇷 | ⇝ I'm Brazilian, so I speak Brazilian Portuguese, but I plan to become fluent in English.
+🇧🇷 | ⇝ As I'm from Brazil, I speak Portuguese, however, I hope to one day be fluent in English as well.
 
-🙏🏼 | ⇝ Wish me luck.
-
+👥 | ⇝ You can find me on my social media (coming soon).
